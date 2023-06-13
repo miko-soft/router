@@ -1,0 +1,28 @@
+{
+  "name": "@mikosoft/router",
+  "version": "1.0.0",
+  "title": "Mikosoft Router",
+  "description": "Fast router for NodeJS and Browser environment.",
+  "author": "Sasa Mikodanic <smikodanic@gmail.com>",
+  "homepage": "http://libs.mikosoft.org/router",
+  "license": "MIT",
+  "keywords": [
+    "router",
+    "routing",
+    "regular expression",
+    "browser",
+    "nodejs",
+    "mikosoft"
+  ],
+  "main": "./Router.js",
+  "scripts": {},
+  "dependencies": {},
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miko-soft/router.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
