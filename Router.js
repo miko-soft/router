@@ -372,5 +372,6 @@ if (typeof module !== 'undefined') {
 
 // Browser
 if (typeof window !== 'undefined') {
-  window.mikosoftRouter = Router;
+  if (!window.mikosoft) { window.mikosoft = {}; }
+  window.mikosoft.Router = Router;
 }
